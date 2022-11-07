@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://santoshdts.hashnode.dev)
 
-- :notebook_with_decorative_cover: Check out my notes on [**#90DaysOfDevOps**](https://github.com/Santosh1176/90DaysOfDevOps) project.
+- :notebook_with_decorative_cover: Check out my notes on [**#90DaysOfDevOps**](https://github.com/Santosh1176/90DaysOfDevOps#journey-of-my-90-days) project.
 
 - 💬 Ask me about **Javascript, Reactjs,**
 
