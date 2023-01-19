@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/91916466/175826261-ada41a8d-4e00-4387-8a46-b5a5c72b54ed.png">
+<img align="center" src="https://user-images.githubusercontent.com/91916466/213378683-95897e5b-20b0-4c36-9906-8fc0cd4037c4.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh1176&label=Profile%20views&color=0e75b6&style=plastic" alt="santosh1176" /> </p>
