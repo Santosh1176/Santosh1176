@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working at [capten.ai](https://capten.ai/)
 
-- 👯 I’m looking to collaborate on **Golan and Kubernetes**
-
 - 👨‍💻 All of my projects are available at [https://github.com/santoshkal](https://github.com/santoshkal)
 
 - 📝 I regularly write articles on [https://santoshdts.hashnode.dev/](https://santoshdts.hashnode.dev/)
